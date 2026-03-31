@@ -2,9 +2,9 @@
 > B64 URL Decoder es una extensión que funciona como herramienta de descifrado.
 > 
 > [!TIPS]
-> - Detección de códigos/URL escriptados Base64.
-> - Soporte de páginas: modo global y exclusivo.
-> - Temas: oscuro/negro (sistema).
+> Detección de códigos/URL escriptados Base64.
+> Soporte de páginas: modo global y exclusivo.
+> Temas: oscuro/negro (sistema).
 >
 >
 >
